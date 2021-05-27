@@ -7,7 +7,8 @@ Zum Ausführen:
 
     Programmlauf:
         - TSP_Ameisenalgorithmus.py ausführen
-        - gewünschte Orte über die Kommandozeile übergeben, Orte die Leerzeichen enthalten müssen mit '_' zusammengeschrieben werden
+        - gewünschte Orte über die Kommandozeile übergeben, Orte die Leerzeichen enthalten müssen
+          mit '_' zusammengeschrieben werden
 
         - wenn eine neue Suche gestartet werden soll wird eine Internetverbindung benötigt,
           ggf. muss der Code an Zeile 13 angepasst werden (den eigenen Browser auswählen)
